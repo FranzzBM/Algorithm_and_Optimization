@@ -19,10 +19,10 @@ Algorithm_and_Optimization/
 ├── Exercise 3 - Local Search/
 │   ├── local_search.py
 │   └── README.md
-├── Exercise 4 - Parameter Tuning/
+├── Exercise 4 - Simulated Annealing/
 │   ├── simulated_annealing.py
 │   └── README.md
-├── Exercise 5 - Aproximation Ratio/
+├── Exercise 5 - MST Aproximation/
 │   ├── mst_aproximation.py
 │   └── README.md
 └── README.md
