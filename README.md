@@ -6,6 +6,8 @@
 
 Este proyecto reúne cinco ejercicios en Python sobre algoritmos y técnicas de optimización. Cada ejercicio explora un problema o método diferente y presenta los resultados en la consola o mediante gráficos.
 
+youtube: https://youtu.be/ajTpDNXWed4
+
 ### Estructura
 
 ```text
