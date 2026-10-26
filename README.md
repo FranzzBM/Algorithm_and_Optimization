@@ -6,6 +6,8 @@
 
 Este proyecto reúne cinco ejercicios en Python sobre algoritmos y técnicas de optimización. Cada ejercicio explora un problema o método diferente y presenta los resultados en la consola o mediante gráficos.
 
+youtube: https://youtu.be/ajTpDNXWed4
+
 ### Estructura
 
 ```text
@@ -19,11 +21,11 @@ Algorithm_and_Optimization/
 ├── Exercise 3 - Local Search/
 │   ├── local_search.py
 │   └── README.md
-├── Exercise 4 - Parameter Tuning/
-│   ├── parameter_tuning.py
+├── Exercise 4 - Simulated Annealing/
+│   ├── simulated_annealing.py
 │   └── README.md
-├── Exercise 5 - Aproximation Ratio/
-│   ├── aproximation_ratio.py
+├── Exercise 5 - MST Aproximation/
+│   ├── mst_aproximation.py
 │   └── README.md
 └── README.md
 ```
@@ -33,8 +35,8 @@ Algorithm_and_Optimization/
 1. **Parallel Speedup:** estima π con Monte Carlo y compara la ejecución secuencial y paralela.
 2. **Greedy Knapsack:** compara dos estrategias voraces para seleccionar objetos en el problema de la mochila.
 3. **Local Search:** aplica búsqueda local 2-opt al problema del viajante y compara diferentes rutas iniciales.
-4. **Parameter Tuning:** compara calendarios de enfriamiento para el recocido simulado aplicado al problema del viajante.
-5. **Aproximation Ratio:** compara varios métodos para el problema del viajante y mide la razón de aproximación de una solución basada en un árbol de expansión mínima.
+4. **Simulated Annealing:** compara calendarios de enfriamiento para el recocido simulado aplicado al problema del viajante.
+5. **MST Aproximation:** compara varios métodos para el problema del viajante y mide la razón de aproximación de una solución basada en un árbol de expansión mínima.
 
 Cada carpeta contiene el código del ejercicio y un README con instrucciones y detalles específicos.
 
@@ -76,11 +78,11 @@ Algorithm_and_Optimization/
 ├── Exercise 3 - Local Search/
 │   ├── local_search.py
 │   └── README.md
-├── Exercise 4 - Parameter Tuning/
-│   ├── parameter_tuning.py
+├── Exercise 4 - Simulated Annealing/
+│   ├── simulated_annealing.py
 │   └── README.md
-├── Exercise 5 - Aproximation Ratio/
-│   ├── aproximation_ratio.py
+├── Exercise 5 - MST Aproximation/
+│   ├── mst_aproximation.py
 │   └── README.md
 └── README.md
 ```
@@ -90,8 +92,8 @@ Algorithm_and_Optimization/
 1. **Parallel Speedup:** estimates π using Monte Carlo and compares sequential and parallel execution.
 2. **Greedy Knapsack:** compares two greedy strategies for selecting items in the knapsack problem.
 3. **Local Search:** applies 2-opt local search to the traveling salesperson problem and compares different initial routes.
-4. **Parameter Tuning:** compares cooling schedules for simulated annealing applied to the traveling salesperson problem.
-5. **Aproximation Ratio:** compares several methods for the traveling salesperson problem and measures the approximation ratio of a solution based on a minimum spanning tree.
+4. **Simulated Annealing:** compares cooling schedules for simulated annealing applied to the traveling salesperson problem.
+5. **MST Aproximation:** compares several methods for the traveling salesperson problem and measures the approximation ratio of a solution based on a minimum spanning tree.
 
 Each folder contains the exercise code and a README with specific details and instructions.
 
